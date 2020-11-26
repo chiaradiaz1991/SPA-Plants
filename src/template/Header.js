@@ -1,10 +1,10 @@
 const Header = () => {
   const view = `
-    <div clas="header-main">
+    <div class="header-main">
       <div class="header-logo">
         <h1>
           <a href="/">
-          plants.co
+          Cartoon.co
           </a>
         </h1>
       </div>

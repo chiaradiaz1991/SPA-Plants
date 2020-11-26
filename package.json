@@ -1,5 +1,5 @@
 {
-  "name": "plant",
+  "name": "cartoon",
   "version": "1.0.0",
   "description": "Single page application",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "devDependencies": {
     "@babel/core": "^7.12.9",
     "babel-loader": "^8.2.1",
+    "copy-webpack-plugin": "^6.3.2",
     "html-webpack-plugin": "^4.5.0",
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12",

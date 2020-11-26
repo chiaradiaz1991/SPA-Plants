@@ -1,1 +1,1 @@
-# SPA-Plants
+# SPA-Rick and morty
